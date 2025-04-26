@@ -1,1 +1,16 @@
-DOMAIN-SUFFIX,.google
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,google
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleanalytics.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,admob.com
+DOMAIN-SUFFIX,ggpht.com
