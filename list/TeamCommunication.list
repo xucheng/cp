@@ -1,0 +1,24 @@
+# NAME: TeamCommunication
+# AUTHOR: xucheng
+# REPO: https://github.com/xucheng/cp
+# UPDATED: 2025-04-26
+# DOMAIN-SUFFIX: 18
+# TOTAL: 18
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,slack-msgs.com
+DOMAIN-SUFFIX,slackb.com
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,teams.microsoft.com
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoomgov.com
+DOMAIN-SUFFIX,whereby.com
+DOMAIN-SUFFIX,meet.google.com
+DOMAIN-SUFFIX,webex.com
+DOMAIN-SUFFIX,mattermost.com
+DOMAIN-SUFFIX,rocket.chat
+DOMAIN-SUFFIX,gitter.im

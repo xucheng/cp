@@ -1,0 +1,30 @@
+# NAME: MicrosoftServices
+# AUTHOR: xucheng
+# REPO: https://github.com/xucheng/cp
+# UPDATED: 2025-04-26
+# DOMAIN-SUFFIX: 24
+# TOTAL: 24
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoft365.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,microsoftonline-p.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msidentity.com
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,skypeassets.com
+DOMAIN-SUFFIX,lync.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,bing.com

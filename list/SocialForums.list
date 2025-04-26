@@ -1,0 +1,21 @@
+# NAME: SocialForums
+# AUTHOR: xucheng
+# REPO: https://github.com/xucheng/cp
+# UPDATED: 2025-04-26
+# DOMAIN-SUFFIX: 15
+# TOTAL: 15
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,tumblr.com
+DOMAIN-SUFFIX,pinboard.in
+DOMAIN-SUFFIX,digg.com
+DOMAIN-SUFFIX,slashdot.org
+DOMAIN-SUFFIX,hackernews.com
+DOMAIN-SUFFIX,ycombinator.com
+DOMAIN-SUFFIX,producthunt.com
+DOMAIN-SUFFIX,4chan.org

@@ -1,0 +1,26 @@
+# NAME: DeveloperCommunity
+# AUTHOR: xucheng
+# REPO: https://github.com/xucheng/cp
+# UPDATED: 2025-04-26
+# DOMAIN-SUFFIX: 20
+# TOTAL: 20
+DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,stackexchange.com
+DOMAIN-SUFFIX,askubuntu.com
+DOMAIN-SUFFIX,serverfault.com
+DOMAIN-SUFFIX,superuser.com
+DOMAIN-SUFFIX,codeproject.com
+DOMAIN-SUFFIX,dev.to
+DOMAIN-SUFFIX,hashnode.com
+DOMAIN-SUFFIX,freecodecamp.org
+DOMAIN-SUFFIX,hackerrank.com
+DOMAIN-SUFFIX,leetcode.com
+DOMAIN-SUFFIX,geeksforgeeks.org
+DOMAIN-SUFFIX,codepen.io
+DOMAIN-SUFFIX,codesandbox.io
+DOMAIN-SUFFIX,replit.com
+DOMAIN-SUFFIX,gitter.im
+DOMAIN-SUFFIX,devdocs.io
+DOMAIN-SUFFIX,sitepoint.com
+DOMAIN-SUFFIX,hackernoon.com
+DOMAIN-SUFFIX,css-tricks.com

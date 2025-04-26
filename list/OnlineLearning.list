@@ -1,0 +1,26 @@
+# NAME: OnlineLearning
+# AUTHOR: xucheng
+# REPO: https://github.com/xucheng/cp
+# UPDATED: 2025-04-26
+# DOMAIN-SUFFIX: 20
+# TOTAL: 20
+DOMAIN-SUFFIX,coursera.org
+DOMAIN-SUFFIX,edx.org
+DOMAIN-SUFFIX,udemy.com
+DOMAIN-SUFFIX,udacity.com
+DOMAIN-SUFFIX,khanacademy.org
+DOMAIN-SUFFIX,skillshare.com
+DOMAIN-SUFFIX,pluralsight.com
+DOMAIN-SUFFIX,brilliant.org
+DOMAIN-SUFFIX,masterclass.com
+DOMAIN-SUFFIX,codecademy.com
+DOMAIN-SUFFIX,futurelearn.com
+DOMAIN-SUFFIX,lynda.com
+DOMAIN-SUFFIX,linkedin.com/learning
+DOMAIN-SUFFIX,datacamp.com
+DOMAIN-SUFFIX,canvas.net
+DOMAIN-SUFFIX,open.edu
+DOMAIN-SUFFIX,edraak.org
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,memrise.com
+DOMAIN-SUFFIX,stanford.edu

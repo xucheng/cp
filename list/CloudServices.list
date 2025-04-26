@@ -1,0 +1,38 @@
+# NAME: CloudServices
+# AUTHOR: xucheng
+# REPO: https://github.com/xucheng/cp
+# UPDATED: 2025-04-26
+# DOMAIN-SUFFIX: 32
+# TOTAL: 32
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,aws.amazon.com
+DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,s3.amazonaws.com
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,awslabs.com
+DOMAIN-SUFFIX,amazonwebservices.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,azure.net
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,microsoftazure.com
+DOMAIN-SUFFIX,windowsazure.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,cloud.google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,heroku.com
+DOMAIN-SUFFIX,linode.com
+DOMAIN-SUFFIX,vultr.com
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,ibm.com
+DOMAIN-SUFFIX,bluemix.net
+DOMAIN-SUFFIX,softlayer.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,netlify.app

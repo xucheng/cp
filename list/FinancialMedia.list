@@ -1,0 +1,21 @@
+# NAME: FinancialMedia
+# AUTHOR: xucheng
+# REPO: https://github.com/xucheng/cp
+# UPDATED: 2025-04-26
+# DOMAIN-SUFFIX: 15
+# TOTAL: 15
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,bloomberg.net
+DOMAIN-SUFFIX,businessinsider.com
+DOMAIN-SUFFIX,cnbc.com
+DOMAIN-SUFFIX,forbes.com
+DOMAIN-SUFFIX,fortune.com
+DOMAIN-SUFFIX,ft.com
+DOMAIN-SUFFIX,marketwatch.com
+DOMAIN-SUFFIX,investing.com
+DOMAIN-SUFFIX,barrons.com
+DOMAIN-SUFFIX,economist.com
+DOMAIN-SUFFIX,morningstar.com
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,seekingalpha.com
+DOMAIN-SUFFIX,finance.yahoo.com

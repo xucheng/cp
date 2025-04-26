@@ -1,0 +1,26 @@
+# NAME: EducationalInstitutions
+# AUTHOR: xucheng
+# REPO: https://github.com/xucheng/cp
+# UPDATED: 2025-04-26
+# DOMAIN-SUFFIX: 20
+# TOTAL: 20
+DOMAIN-SUFFIX,stanford.edu
+DOMAIN-SUFFIX,harvard.edu
+DOMAIN-SUFFIX,mit.edu
+DOMAIN-SUFFIX,berkeley.edu
+DOMAIN-SUFFIX,princeton.edu
+DOMAIN-SUFFIX,yale.edu
+DOMAIN-SUFFIX,columbia.edu
+DOMAIN-SUFFIX,caltech.edu
+DOMAIN-SUFFIX,ucla.edu
+DOMAIN-SUFFIX,cornell.edu
+DOMAIN-SUFFIX,cmu.edu
+DOMAIN-SUFFIX,umich.edu
+DOMAIN-SUFFIX,cam.ac.uk
+DOMAIN-SUFFIX,ox.ac.uk
+DOMAIN-SUFFIX,utoronto.ca
+DOMAIN-SUFFIX,ubc.ca
+DOMAIN-SUFFIX,ethz.ch
+DOMAIN-SUFFIX,tsinghua.edu.cn
+DOMAIN-SUFFIX,pku.edu.cn
+DOMAIN-SUFFIX,ntu.edu.sg

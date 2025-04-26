@@ -1,0 +1,30 @@
+# NAME: CloudStorage
+# AUTHOR: xucheng
+# REPO: https://github.com/xucheng/cp
+# UPDATED: 2025-04-26
+# DOMAIN-SUFFIX: 24
+# TOTAL: 24
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,1drv.ms
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,googledrive.com
+DOMAIN-SUFFIX,docs.google.com
+DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,box.com
+DOMAIN-SUFFIX,box.net
+DOMAIN-SUFFIX,boxcdn.net
+DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,mega.io
+DOMAIN-SUFFIX,pcloud.com
+DOMAIN-SUFFIX,mediafire.com
+DOMAIN-SUFFIX,sync.com
+DOMAIN-SUFFIX,backblaze.com

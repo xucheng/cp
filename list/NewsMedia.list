@@ -1,0 +1,31 @@
+# NAME: NewsMedia
+# AUTHOR: xucheng
+# REPO: https://github.com/xucheng/cp
+# UPDATED: 2025-04-26
+# DOMAIN-SUFFIX: 25
+# TOTAL: 25
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,washingtonpost.com
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,theguardian.com
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,apnews.com
+DOMAIN-SUFFIX,ap.org
+DOMAIN-SUFFIX,abcnews.go.com
+DOMAIN-SUFFIX,nbcnews.com
+DOMAIN-SUFFIX,cbsnews.com
+DOMAIN-SUFFIX,foxnews.com
+DOMAIN-SUFFIX,npr.org
+DOMAIN-SUFFIX,huffpost.com
+DOMAIN-SUFFIX,theverge.com
+DOMAIN-SUFFIX,techcrunch.com
+DOMAIN-SUFFIX,wired.com
+DOMAIN-SUFFIX,aljazeera.com
+DOMAIN-SUFFIX,time.com
+DOMAIN-SUFFIX,economist.com
+DOMAIN-SUFFIX,ft.com

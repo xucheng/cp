@@ -1,0 +1,36 @@
+# NAME: DeveloperTools
+# AUTHOR: xucheng
+# REPO: https://github.com/xucheng/cp
+# UPDATED: 2025-04-26
+# DOMAIN-SUFFIX: 30
+# TOTAL: 30
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,bitbucket.org
+DOMAIN-SUFFIX,atlassian.com
+DOMAIN-SUFFIX,atlassian.net
+DOMAIN-SUFFIX,jira.com
+DOMAIN-SUFFIX,npm.com
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,yarnpkg.com
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,dockerhub.com
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,hub.docker.com
+DOMAIN-SUFFIX,rubygems.org
+DOMAIN-SUFFIX,maven.org
+DOMAIN-SUFFIX,gradle.org
+DOMAIN-SUFFIX,nuget.org
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,sonatype.org
+DOMAIN-SUFFIX,hashicorp.com
+DOMAIN-SUFFIX,terraform.io
+DOMAIN-SUFFIX,travis-ci.org
+DOMAIN-SUFFIX,travis-ci.com
+DOMAIN-SUFFIX,jenkins.io
+DOMAIN-SUFFIX,sourceforge.net
+DOMAIN-SUFFIX,gitpod.io

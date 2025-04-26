@@ -1,0 +1,28 @@
+# NAME: StreamingVideo
+# AUTHOR: xucheng
+# REPO: https://github.com/xucheng/cp
+# UPDATED: 2025-04-26
+# DOMAIN-SUFFIX: 22
+# TOTAL: 22
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,hulustream.com
+DOMAIN-SUFFIX,peacocktv.com
+DOMAIN-SUFFIX,crunchyroll.com
+DOMAIN-SUFFIX,crunchyroll.io
+DOMAIN-SUFFIX,funimation.com
+DOMAIN-SUFFIX,amazonprime.com
+DOMAIN-SUFFIX,primevideo.com
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,apple.tv
+DOMAIN-SUFFIX,appletv.com
+DOMAIN-SUFFIX,curiositystream.com
+DOMAIN-SUFFIX,britbox.com
+DOMAIN-SUFFIX,mubi.com
+DOMAIN-SUFFIX,criterion.com
